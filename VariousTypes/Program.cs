@@ -31,6 +31,13 @@ namespace VariousTypes
             Console.WriteLine(z);
             Console.WriteLine(c);
 
+            bool condition1 = false;
+            bool condition2 = 6 > 9;
+            bool condition3 = 9 > 2;
+
+            Console.WriteLine(condition1);
+            Console.WriteLine(condition2);
+            Console.WriteLine(condition3);
         }
     }
 }
